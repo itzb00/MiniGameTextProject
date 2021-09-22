@@ -1,0 +1,7 @@
+Tricky Stairs,1,Which step is the hardest to take?,the first one,false,3
+Leaky Cauldron,2,What leaks but can never be plugged?,memory,false,3
+Chains and Shackles,3,A chain is only as strong as its...,weakest link,false,3
+Mate in Two,4,Which is the only chess piece that can jump over others?,knight,false,3
+Feast or Famine,5,Which fruit is yellow and sour?,lemon,false,3
+Shining Stars,6,Whats the galaxy nearest to us called?,andromeda,false,3
+Final Rush,7,What are animals who thrive at night called?,nocturnal,false,3
