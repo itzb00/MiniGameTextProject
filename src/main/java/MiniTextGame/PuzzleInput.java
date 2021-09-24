@@ -13,7 +13,7 @@ public class PuzzleInput {
         try {
 
             List<String> lines = FileUtils.readLines(new File("Puzzles.txt"), "UTF-8");
-            System.out.println(lines);
+            //System.out.println(lines);
 
             for (int i = 0; i < lines.size(); i++) {
                 String line = lines.get(i);

@@ -49,7 +49,7 @@ public class Puzzle {
         return solved;
     }
 
-    public void setWasSolved(boolean wasSolved) {
+    public void setWasSolved(boolean solved) {
         this.solved = solved;
     }
 

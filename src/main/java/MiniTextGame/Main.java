@@ -55,6 +55,7 @@ public class Main {
                     //updating the current room
                     currentRoom = rooms.get(nextRoomID - 1);
                     displayCurrentRoom();
+                    displayPuzzle();
                 } else {
                     System.out.println("You can't go that way.");
                 }
@@ -88,7 +89,7 @@ public class Main {
             int attempts = currentRoom.getPuzzle().getAttempts();
 
             do {
-                System.out.println(">");
+                System.out.print(">");
                 String answer = input.nextLine();
                 answer = answer.toLowerCase();
                 //check user's answer
