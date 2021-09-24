@@ -20,6 +20,7 @@ public class PuzzleInput {
                 Puzzle puzzle = new Puzzle();
                 String[] puzzleData = line.split(",");
                 //split by comma
+                //reading through the String[] words one by one
                 int j = 0;
                 puzzle.setPuzzleName(puzzleData[j]);
                 j++;
